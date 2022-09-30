@@ -11,7 +11,7 @@
 
 # Client Partner Information
 Company: Chuqlab
-People: Baine Dirker
+People: Blaine Dirker
 
 # Links
 
