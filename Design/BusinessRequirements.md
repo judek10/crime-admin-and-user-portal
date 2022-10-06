@@ -11,5 +11,5 @@
   * This business requirement also uses automation to cut out contacting the developers. This is a requirement because it allows the businesses who subscribe to CrimeMiner the ability to manage the users in their departments.
 
 
-* BR4 - We need to allow users the ability to manage login information as well as view usage metrics. 
-  * TODO:
+* BR4 - We need to allow admins the ability to manage login information as well as view usage metrics. 
+  * This business requirement is to allow admins to be able to view and change login information of users within their organization. As well as to allow admins to see the usage metrics of users within their organization. 
