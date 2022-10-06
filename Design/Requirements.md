@@ -2,6 +2,6 @@
 
 ## Functional Requirments
 
-*FR1 
+* FR1 
 
 ## Non-functional Requirments
