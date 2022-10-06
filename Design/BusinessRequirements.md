@@ -1,2 +1,9 @@
 ## Business Requirements
-- BR1 - Save time and improve the user experience using automation for the analytics and reports - This is one of the business requirements due to its overall importance related to our project's goals. Everything which we are planning to do relates to this development of automation, as well as the benefits it will provide for the company. In our initial client meeting we were told how this was the general aim for the project, and that we should put our focus into it's functionality first and foremost. Therefore, this is our first business requirement.
+* BR1 - Save time and improve the user experience using automation for the analytics and reports - This is one of the business requirements due to its overall importance related to our project's goals. Everything which we are planning to do relates to this development of automation, as well as the benefits it will provide for the company. In our initial client meeting we were told how this was the general aim for the project, and that we should put our focus into it's functionality first and foremost. Therefore, this is our first business requirement.
+
+
+* BR2- We need to be able to manage over the software directly as an administration. 
+
+* BR3- We need to allow the businesses to manage over CrimeMiner to add or remove users. 
+
+* BR4 - We need to allow users the ability to manage login information as well as view usage metrics. 
