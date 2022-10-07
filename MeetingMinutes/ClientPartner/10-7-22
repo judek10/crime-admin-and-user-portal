@@ -1,0 +1,37 @@
+# Client Meeting on 10/7/2022
+
+## Meeting Start Time
+
+2022/10/07/03:00
+
+## Meeting End Time
+
+2022/10/07/03:40
+
+## Location/Medium
+
+Zoom
+
+## Present
+
+Jude, Ryan, John, Dawson, Carter, and Blaine
+
+## Minute Recorder
+
+Jude
+
+## Topics Discussed
+
+- Team went over what we have for our domain model.
+- Blaine discussed in more detail about the functionalities of super admin, admin, and users and how they tie to the database.
+- Blaine went through the CrimeMiner application and showed us the login page and main page.
+- Blaine went through how to make a case and everything you can do with a case.
+- Blaine went through how to users are created using Cognito.
+- Blaine went over the databases that we'll be using and what they'll be used for.
+- Team asked Blaine about 1st iteration features to be prioritized.
+
+## Things Clarified
+
+- Clarified about admin vs user portal.
+- Clarified about usage metrics UI.
+- Clarified Blaine's availability next week.
