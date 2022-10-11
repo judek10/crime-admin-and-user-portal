@@ -45,17 +45,3 @@
   * When viewing usage metrics, the portal UI will display information about number of cases, number of files, amount of minutes transcribed (by user and/or organization), most searched terms, and most hit terms.
   * Business requirement - BR6
   * This use case also corresponds with the sixth business requirement. UC6 describes the information that usage metrics provide. When users are viewing usage metrics, they should find information about number of cases, number of files, amount of minutes transcribed, most searched terms, and most hit terms. These bits of information are important for measuring the activities of users and organizations.
-
-* UC7
-  * Search capability
-  * Actors: Super Admin, Admin, User (?)
-  * Any user of the portal should be able to search for files using key terms and phrases.
-  * Business requirement - tbd
-  * 
-
-* UC8
-  * Reports can be downloaded
-  * Actors: Super Admin, Admin, User (?)
-  * Any user of the portal should be able to download reports to their system.
-  * Business Requirement - tbd
-  * 
