@@ -1,2 +1,2 @@
 ## Architecture
-![Layered monolith structure](../Auxiliary files/Architecture.jpg)
+![Layered monolith structure](../Auxiliary files/Architecture.jpeg)
