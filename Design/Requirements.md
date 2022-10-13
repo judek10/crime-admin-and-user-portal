@@ -14,9 +14,9 @@
 
 * FR6 - The software shall allow the user to reset their password. (HIGH) (BR5)
 
-* FR7 - The software shall allow the user to view their usage metrics. (HIGH) (BR6)
+* FR7 - The software shall allow the user to view their usage metrics. (MEDIUM) (BR6)
 
-* FR8 - The software usage should include: (HIGH) (BR6)
+* FR8 - The software usage should include: (MEDIUM) (BR6)
     * number of cases
     * number of files
     * amount of minutes transcribed by user AND organization
