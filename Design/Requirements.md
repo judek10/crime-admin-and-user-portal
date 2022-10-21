@@ -24,7 +24,7 @@
     * most hit terms
     
 
-## Non-functional Requirments
+## Non-functional Requirements
 
 * NR1 - The software’s design should have simplistic pathing for administrators to perform functions. (HIGH) (BR1)
 <?Such as going from one file, or section, to another without much problem?>
