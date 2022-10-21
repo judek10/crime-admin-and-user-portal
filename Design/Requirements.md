@@ -1,6 +1,6 @@
 ## Requirements
 
-## Functional Requirments
+## Functional Requirements
 
 * FR1 - The software shall allow the super admin to log in and be able to manage over the software with unlimited restraints.  (HIGH) (BR1)
 
