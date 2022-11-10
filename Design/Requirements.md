@@ -6,19 +6,19 @@
 
 * FR2 - The software shall allow the super admin to log in with authorization check.
 
-* FR2 - The software shall allow the super admin to create organizations for subscribed businesses. (HIGH) (BR1)
+* FR3 - The software shall allow the super admin to create organizations for subscribed businesses. (HIGH) (BR1)
 
-* FR3 - The software shall allow the super admin to assign admin to the organization. (HIGH) (BR2)
+* FR4 - The software shall allow the super admin to assign admin to the organization. (HIGH) (BR2)
 
-* FR4 - The software shall allow admin the ability to add/remove users. (HIGH) (BR3)
+* FR5 - The software shall allow admin the ability to add/remove users. (HIGH) (BR3)
 
-* FR5 - The software shall allow the admin to have all privileges of the user. (HIGH) (BR4)
+* FR6 - The software shall allow the admin to have all privileges of the user. (HIGH) (BR4)
 
-* FR6 - The software shall allow the user to reset their password. (HIGH) (BR5)
+* FR7 - The software shall allow the user to reset their password. (HIGH) (BR5)
 
-* FR7 - The software shall allow the user to view their usage metrics. (MEDIUM) (BR6)
+* FR8 - The software shall allow the user to view their usage metrics. (MEDIUM) (BR6)
 
-* FR8 - The software usage should include: (MEDIUM) (BR6)
+* FR9 - The software usage should include: (MEDIUM) (BR6)
     * number of cases
     * number of files
     * amount of minutes transcribed by user AND organization
