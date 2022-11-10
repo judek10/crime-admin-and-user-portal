@@ -2,7 +2,9 @@
 
 ## Functional Requirements
 
-* FR1 - The software shall allow the super admin to log in and be able to manage over the software with unlimited restraints.  (HIGH) (BR1)
+* FR1 - The software shall allow the super admin be able to manage over the software with unlimited restraints.  (HIGH) (BR1)
+
+* FR2 - The software shall allow the super admin to log in with authorization check.
 
 * FR2 - The software shall allow the super admin to create organizations for subscribed businesses. (HIGH) (BR1)
 
