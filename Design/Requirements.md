@@ -4,7 +4,7 @@
 
 * FR1 - The software shall allow the super admin be able to manage over the software with unlimited restraints.  (HIGH) (BR1)
 
-* FR2 - The software shall allow the super admin to log in with authorization check.
+* FR2 - The software shall allow the super admin to log in with authorization check. (HIGH) (BR1)
 
 * FR3 - The software shall allow the super admin to create organizations for subscribed businesses. (HIGH) (BR1)
 
