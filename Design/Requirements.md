@@ -24,6 +24,11 @@
     * amount of minutes transcribed by user AND organization
     * most searched terms 
     * most hit terms
+
+* FR10 - Super admins can edit all user information after they've been created (HIGH) (BR2)
+* FR11 - Super admins can edit all organization information after they've been created (HIGH) (BR2)
+* FR12 - The software shall allow super admin the ability to add/remove users. (HIGH) (BR3)
+* FR13 - Admins can edit a user's username, email, and admin status after they've been created (HIGH) (BR2)
     
 
 ## Non-functional Requirements
