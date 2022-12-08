@@ -14,7 +14,8 @@ Company: Chuqlab
 People: Blaine Dirker
 
 # Links
-2nd Iteration Features - https://github.com/users/judek10/projects/1
+3rd Iteration Features - https://github.com/users/judek10/projects/1
 
 # Code Repositories
-https://github.com/judek10/crime-admin-user-portal-project
+https://github.com/judek10/crime-admin-user-portal-front-end
+https://github.com/ryanschlechty/crime-admin-user-portal-BACK-END
