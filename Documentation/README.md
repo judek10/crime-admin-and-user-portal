@@ -1,5 +1,5 @@
-[Deployment.md](Documentation/Deployment.md)
+[Deployment.md](/Documentation/Deployment.md)
 
-[User.md](Documentation/User.md)
+[User.md](/Documentation/User.md)
 
-[Development.md](Documentation/Development.md)
+[Development.md](/Documentation/Development.md)
