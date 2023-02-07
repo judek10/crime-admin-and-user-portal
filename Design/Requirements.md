@@ -29,7 +29,9 @@
 * FR11 - Super admins can edit all organization information after they've been created (HIGH) (BR2)
 * FR12 - The software shall allow super admin the ability to add/remove users. (HIGH) (BR3)
 * FR13 - Admins can edit a user's username, email, and admin status after they've been created (HIGH) (BR2)
-    
+* FR14 - Implement AWS Cognito (HIGH) (BR2)
+* FR15 - Add user metrics page for users (HIGH) (BR2)
+* FR16 - Add login functionality for users (HIGH) (BR2)
 
 ## Non-functional Requirements
 
