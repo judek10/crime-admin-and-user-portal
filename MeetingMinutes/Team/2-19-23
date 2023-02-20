@@ -1,0 +1,32 @@
+# Week of 2/13/2023-2/19/2023
+
+## Meeting Start Time
+2023/2/19/7/00
+
+## Meeting End Time
+2023/2/19/7/45
+
+## Location/Medium
+Zoom
+
+## Present
+Carter, Dawson, John, Jude, Ryan
+
+## Minute Recorder
+Dawson
+
+# Things clarified
+- The team clarified what we have to get done before the iteration closes, that being the connection to cognito and user functionality
+- The team clarified that things need to essentially be done by spring break, in order to avoid needing to work over it
+- Clarified the UI work needed to be done, such as pagination, coloring, padding, etc.
+
+## Topics Discussed
+- The team discussed plans for the fourth iteration
+- The team discussed the tasks to be distributed 
+
+## Tasks distributed
+- Carter: Work on UI
+- Dawson: Work on UI
+- John: Work on User Metrics
+- Jude: Work on AWS Cognito connection
+- Ryan: Work on AWS Cognito conection
