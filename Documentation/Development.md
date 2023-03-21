@@ -24,12 +24,24 @@ PGAdmin is an application used to view the Postgresql database, which is helpful
   - DB_USERNAME='Your database username'
   - DB_PASSWORD='Your database password'
   - DB_NAME= 'Your name of your database'
+  - ACCESS_KEY_ID=''
+  - SECRET_ACCESS_KEY=''
+  - REGION=''
+  - CLIENT_ID=''
+  - AUTH_FLOW=''
+  - USER_POOL_ID=''
 * This is an example of a `.env` file:
   - DB_HOST='localhost'
   - DB_PORT=5432
   - DB_USERNAME='postgres'
   - DB_PASSWORD='password123'
   - DB_NAME= 'NotARealDB'
+  - ACCESS_KEY_ID='ASFJKLFDSH75OGEU'
+  - SECRET_ACCESS_KEY=UOPIDFJAoiufaojpIUO'
+  - REGION='us-east-2'
+  - CLIENT_ID='asdhfjaskfhl958o'
+  - AUTH_FLOW='GUESS_WHAT_BRO'
+  - USER_POOL_ID='userpoolName'
 
 * Run the command `npm run start` to start up back end API server
 
