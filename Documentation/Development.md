@@ -37,6 +37,7 @@ PGAdmin is an application used to view the Postgresql database, which is helpful
 * Clone the front end repository using Visual Studio Code
 * Open a terminal inside VSCode
 * Type the following command to install all node packages: `npm install`
+* You may get an error while installing, to bypass this, type in the command `npm install --force`
 * To run the project in a web page type the command: `ionic serve`
 * If there's errors when running ionic serve saying this cannot be loaded because running scripts is disabled on this system, then type the command: `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
 * If there's continued errors when setting this up, try reloading the project and then enter the `ionic serve` command again.
@@ -52,6 +53,7 @@ After downloading Flyway command-line tool perform a data migration by following
 * Open the Command Prompt.
 * Type the command: `flyway migrate -locations="filesystem:<file path to cloned backend project /database/migrations folder>" -url=jdbc:postgresql://<hostname>:<port>/<database name> -user=<your username> -password=<your password>`
 * Example Flyway migrate command: `flyway migrate -locations="filesystem:C:\Users\judek\VSCode\crime-admin-user-portal-BACK-END\src\database\migrations" -url=jdbc:postgresql://localhost:5432/LicenseDB -user=postgres -password=somepassword`
+* You may need to change to the correct directory to type the command. Example `cd flyway-9.8.1` then proceeed with the command above. 
 * Open postgresql database to see new tables 'Organizations' and 'Users' have been added along with the 'flyway_schema_history' table.
 
 
