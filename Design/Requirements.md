@@ -32,6 +32,10 @@
 * FR14 - Implement AWS Cognito (HIGH) (BR2)
 * FR15 - Add user metrics page for users (HIGH) (BR2)
 * FR16 - Add login functionality for users (HIGH) (BR2)
+* FR17 - Implement licensing for Admins (HIGH) (BR1)
+* FR18 - Display allocated minutes vs minutes left in metrics as pie chart (HIGH) (BR1)
+* FR19 - Deleting an organization displays modal with warning that users a part of organization will also be deleted (HIGH) (BR1)
+* FR20 - Implement pagination for user manager, organizations, and user metrics (HIGH) (BR1)
 
 ## Non-functional Requirements
 
